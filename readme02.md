@@ -27,3 +27,7 @@
 # enterNewScence이 true일때 잠깐동안은 scrollLoop함수를 종료한다.
 ![image](https://github.com/understanding963852/app-clone1/assets/60366769/06bb935e-fe32-47b4-95e4-58416c1d22fd)
 
+# ➡️ 씬이 바뀔때 마이너스 값이 나오는것을 처리할수 있다      
+
+
+# 특정 타이밍 스크롤 애니메이션 기능 추가  
