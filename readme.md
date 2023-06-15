@@ -17,7 +17,7 @@
 # 🥩 해결방법은    --> 씬을 바꿀때 처리해 준다..
 
 # 변수를 만들어서 그 변수가 true가 되는순간은 씬이 바뀌는 순간이다라고 인식하게 만든다  
-
+# 새로운 씬이 시작되는 순간 true가 된다
 ![image](https://github.com/understanding963852/app-clone1/assets/60366769/fb1114b7-4931-4e32-bcab-f15f9b2122b9)
 
 
