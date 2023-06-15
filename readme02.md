@@ -21,6 +21,6 @@
 # 새로운 씬이 시작되는 순간 true가 된다
 ![image](https://github.com/understanding963852/app-clone1/assets/60366769/fb1114b7-4931-4e32-bcab-f15f9b2122b9)
 
-
-
+# 1️⃣ 스크롤을 움직일때마다 기본적으로 false가 지정되고 2️⃣ 는 씬이 바뀌는 순간이고 값이 바뀌는 순간 true가 되게한다.  
+![image](https://github.com/understanding963852/app-clone1/assets/60366769/d695b03c-15cb-4b4d-93a3-74b61e3ce6b8)
 
