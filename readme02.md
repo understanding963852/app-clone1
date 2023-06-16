@@ -36,5 +36,10 @@
 # messageA_opacity 가 나올시점이 start에 사라지는 시점은 end에 적는 것이다. 나머지 text들도 그런식으로 적어준다  
 ![image](https://github.com/understanding963852/app-clone1/assets/60366769/fe1a4e5b-511d-4a90-9477-b9184c6242f4)
 
+# 아래의 calcValues함수가 한 섹션에서의 전체 스크롤값을 계산하는 곳이다.  
+![image](https://github.com/understanding963852/app-clone1/assets/60366769/0fab23da-0d43-4be1-abad-f3efc96f7ba4)
+
+# 전체길이에서 값과의 계산은 이렇게 하려고 한다   
+![image](https://github.com/understanding963852/app-clone1/assets/60366769/fc4584cb-ee21-4e85-98fe-0ce498c1c0d7)
 
 
