@@ -33,3 +33,5 @@
 # 현재 화면에 스크롤되고있는 현재 섹션을 담을 변수가 필요하다 -- currentScene
 ![image](https://github.com/understanding963852/app-clone1/assets/60366769/df6d297a-f2bd-4d56-b600-fb7bfd1cbe26)
 
+![image](https://github.com/understanding963852/app-clone1/assets/60366769/ed184399-9869-464c-b9ef-3186d406c965)
+
