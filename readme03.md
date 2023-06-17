@@ -14,6 +14,10 @@
 ![image](https://github.com/understanding963852/app-clone1/assets/60366769/e751d8b3-47c0-426e-9498-6061746e146b)
 
 ![image](https://github.com/understanding963852/app-clone1/assets/60366769/ce70dd16-10cd-4599-882a-3a7c535a696d)
+![image](https://github.com/understanding963852/app-clone1/assets/60366769/cdbc8b6c-6889-44f7-8cfc-9ab101054055)
+
+
+
 
 
 
