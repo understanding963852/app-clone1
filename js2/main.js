@@ -33,6 +33,7 @@
     }
 
     if(yOffset<prevScrollHeight){
+      if(currentScene==0)return;//화면이 바운스될때 값이 빠지는것을 막기위해서 작성(안해도됨)
       currentScene--;
     }
 
