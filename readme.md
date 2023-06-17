@@ -13,3 +13,5 @@
 #  몇번째 씬이 스크롤되고 있는지 판별해야한다
 #  스크롤이 일어날때마다 함수 scrollLoop()를 실행한다
 ![image](https://github.com/understanding963852/app-clone1/assets/60366769/71891dd4-51e6-4e81-80d9-18d249b118bc)
+# pageYOffset 값 확인하기
+![image](https://github.com/understanding963852/app-clone1/assets/60366769/3bfd5507-88fa-4bd2-8fe2-5890ca0de346)
