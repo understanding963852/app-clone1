@@ -46,4 +46,6 @@
 # 글자가 나타나고 사라지는 범위안에서의 opacity의  변화하는 값을 찾아내기 위해서이다.  
 ![image](https://github.com/understanding963852/app-clone1/assets/60366769/d7e56dbb-39f1-4878-bbe2-55f2113da9de)
 
+![image](https://github.com/understanding963852/app-clone1/assets/60366769/3b08e099-44ed-480e-991b-e32cfe179c24)
+![image](https://github.com/understanding963852/app-clone1/assets/60366769/696ca22d-d58c-4c6f-98c3-c3fa20441177)
 
