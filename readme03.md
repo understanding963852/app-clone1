@@ -51,6 +51,7 @@
 ![image](https://github.com/understanding963852/app-clone1/assets/60366769/d695b03c-15cb-4b4d-93a3-74b61e3ce6b8)
 
 # enterNewScence이 true일때 잠깐동안은 scrollLoop함수를 종료한다.
+# playAnimation(); 보다 위에 적어서   enterNewScence이 true일때 playAnimation();이 실행되지 않게 한다.
 ![image](https://github.com/understanding963852/app-clone1/assets/60366769/06bb935e-fe32-47b4-95e4-58416c1d22fd)
 
 # ➡️ 씬이 바뀔때 마이너스 값이 나오는것을 처리할수 있다      
