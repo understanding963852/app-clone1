@@ -34,4 +34,7 @@
 ![image](https://github.com/understanding963852/app-clone1/assets/60366769/df6d297a-f2bd-4d56-b600-fb7bfd1cbe26)
 
 ![image](https://github.com/understanding963852/app-clone1/assets/60366769/ed184399-9869-464c-b9ef-3186d406c965)
+# 위의 이미지를 코드를 바꾸면 아래와 같이 된다   
+![image](https://github.com/understanding963852/app-clone1/assets/60366769/eaf77881-3279-4a67-aa13-f4553f60d0b9)
 
+# 여기까지 js2 폴더 참조  🌳🌳🌳
