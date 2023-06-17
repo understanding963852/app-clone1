@@ -28,5 +28,8 @@
 
 ![image](https://github.com/understanding963852/app-clone1/assets/60366769/c6bea89c-f84d-4afb-886f-8b076b98c6b0)
 
-# 변수를 먼저만든다 (현재 스크롤 위치(yOffSet)보다 이전에 위치한 스크롤 섹션들의 높이값의 합을 가지고 있을 변수)
-![image](https://github.com/understanding963852/app-clone1/assets/60366769/1ffc2dcd-f699-4f08-a434-e98cd01c515d)
+# 위의 이미지에서 0번과 1번의 합을 저장할 변수를 만든다.  
+# 변수를 먼저만든다 (현재 스크롤 위치(yOffSet)보다 이전에 위치한 스크롤 섹션들의 높이값의 합을 가지고 있을 변수) --  prevScrollHeight
+# 현재 화면에 스크롤되고있는 현재 섹션을 담을 변수가 필요하다 -- currentScene
+![image](https://github.com/understanding963852/app-clone1/assets/60366769/df6d297a-f2bd-4d56-b600-fb7bfd1cbe26)
+
