@@ -13,6 +13,7 @@
     }
   }
   console.log(sceneInfo)
-    setLayout();
+  window.addEventListener('resize',setLayout)//화면에 사이즈가 변할때 다시 실행되도록한다
+  setLayout();
 
 })()
