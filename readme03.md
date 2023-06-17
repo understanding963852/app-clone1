@@ -60,11 +60,12 @@
 # 영상제목 : 특정 타이밍 스크롤 애니메이션 기능 추가  
 # start와 end가 글자가 나타나고 사라지는 지점을 적은것이다.  
 # 한영역의 전체 스크롤이 1이라고 계산한다
-# messageA_opacity 가 나올시점이 start에 사라지는 시점은 end에 적는 것이다. 나머지 text들도 그런식으로 적어준다  
-![image](https://github.com/understanding963852/app-clone1/assets/60366769/fe1a4e5b-511d-4a90-9477-b9184c6242f4)
+# messageA_opacity_in 가 나올시점이 start에 사라지는 시점은 end에 적는 것이다. 나머지 text들도 그런식으로 적어준다  
+![image](https://github.com/understanding963852/app-clone1/assets/60366769/0daa7227-e4af-4887-aa6b-c919773364e0)
 
 # 아래의 calcValues함수가 한 섹션에서의 전체 스크롤값을 계산하는 곳이다.  
-![image](https://github.com/understanding963852/app-clone1/assets/60366769/0fab23da-0d43-4be1-abad-f3efc96f7ba4)
+![image](https://github.com/understanding963852/app-clone1/assets/60366769/146066a3-5641-4474-9782-9b4bf5bb6ece)
+
 
 # 전체길이에서 값과의 계산은 이렇게 하려고 한다   
 ![image](https://github.com/understanding963852/app-clone1/assets/60366769/fc4584cb-ee21-4e85-98fe-0ce498c1c0d7)
