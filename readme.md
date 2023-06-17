@@ -22,5 +22,8 @@
 
 ![image](https://github.com/understanding963852/app-clone1/assets/60366769/defb3348-4316-43be-814c-3483d5b0ca3c)
 
+# 예를 들어 현재 index번호가 2번인 3번째 section이 화면에 보이고 있다.
+# 그럼 세번째 section에 스크롤 하고 있다는것을 어떻게 인식할것인가
+# ➡️  yOffset값이 0번과 1번의 높이값을 합한 값보다 크다면 2번의 영역에 스크롤되고 있는것이
 
-
+![image](https://github.com/understanding963852/app-clone1/assets/60366769/c6bea89c-f84d-4afb-886f-8b076b98c6b0)
