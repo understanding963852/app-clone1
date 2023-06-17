@@ -2,7 +2,7 @@
 # 문장 4개를 sceneInfo에 준비한다   
 ![image](https://github.com/understanding963852/app-clone1/assets/60366769/4751f57e-5e2b-44a4-a105-a85627d4a15f)
 # 글자문장이 어느시점에 나타나고 사라지게 할것인지를 계산해 주어야한다.  
-# 글자문장의 애니메이션을 별도의 함수로 만들겠다.
+# 글자문장의 애니메이션을 별도의 함수로 만들겠다.(너무 길기 때문이기도 하다)
 ![image](https://github.com/understanding963852/app-clone1/assets/60366769/36087dbc-3d2e-4bcc-86a3-bb3d6637e96c)
 
 
