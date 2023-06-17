@@ -8,3 +8,11 @@
 # 먼저 문서가 모두 로드되면 setLayout함수가 실행되도록 한다.  
 ![image](https://github.com/understanding963852/app-clone1/assets/60366769/f470522a-5d3d-4932-95e6-0ce131993fb4)
 
+![image](https://github.com/understanding963852/app-clone1/assets/60366769/c23acc08-64a1-4ef2-938e-da87bc2c8459)
+
+# 위의 이미지를 코드로 작성한다.  
+
+![image](https://github.com/understanding963852/app-clone1/assets/60366769/b47c41f2-adac-4af9-a2aa-4caffd67b31d)
+
+/////////////////// 여기까지 js3 폴더 참조하기   
+
