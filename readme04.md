@@ -6,6 +6,20 @@
 
 
 # 실행을 해 보니 깜빡이는 현상이 있다. 차후에는 계속 깜빡이는 현상이 있다면 코드를 아래와 같이 수정해야한다.
+
+            if(scrollRation<=0.22){
+                  //in
+                  objs.messageA.style.opacity = calcValues(values.messageA_opacity_in, currentYOffset);
+
+                }else{
+                  //out
+                  console.log("실행")
+                 objs.messageA.style.opacity = calcValues(values.messageA_opacity_out, currentYOffset);
+                }
+
+
+# 위와 같이 사용했더니 깜빡이는 현상으로 아래와 같이 수정한다..
+
                  if (scrollRation <= 0.1) {
                    // in
                     objs.messageA.style.opacity = calcValues(values.messageA_opacity_in, currentYOffset);
