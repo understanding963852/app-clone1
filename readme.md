@@ -16,3 +16,8 @@
 
 # pageYOffset 값 확인하기 
 ![image](https://github.com/understanding963852/app-clone1/assets/60366769/3bfd5507-88fa-4bd2-8fe2-5890ca0de346)
+
+
+# 설정이 필요해서 window.pageYOffset; 를 별도로 변수로 빼주었다.
+
+![image](https://github.com/understanding963852/app-clone1/assets/60366769/923fe4f9-9106-4437-a2d0-e0607244237a)
