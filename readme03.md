@@ -38,13 +38,6 @@
 
 
 
-
-
-
-
-
-
-
 # 아래와 같이 중간에 잘못된 값이 나올때가 있다. 
 ![image](https://github.com/understanding963852/app-clone1/assets/60366769/bfe3a448-991c-438e-9c96-fcc35639e54d)
 
