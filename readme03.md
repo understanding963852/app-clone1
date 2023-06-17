@@ -27,6 +27,7 @@
 
 ![image](https://github.com/understanding963852/app-clone1/assets/60366769/bf4c17d5-d87a-41a2-a136-a247bd39b54b)
 
+![image](https://github.com/understanding963852/app-clone1/assets/60366769/433de034-be9d-4d40-874d-2035a8e812b5)
 
 
 
