@@ -27,3 +27,6 @@
 # ➡️  yOffset값이 0번과 1번의 높이값을 합한 값보다 크다면 2번의 영역에 스크롤되고 있는것이
 
 ![image](https://github.com/understanding963852/app-clone1/assets/60366769/c6bea89c-f84d-4afb-886f-8b076b98c6b0)
+
+# 변수를 먼저만든다 (현재 스크롤 위치(yOffSet)보다 이전에 위치한 스크롤 섹션들의 높이값의 합을 가지고 있을 변수)
+![image](https://github.com/understanding963852/app-clone1/assets/60366769/1ffc2dcd-f699-4f08-a434-e98cd01c515d)
