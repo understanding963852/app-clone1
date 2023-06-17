@@ -14,7 +14,17 @@
 ![image](https://github.com/understanding963852/app-clone1/assets/60366769/e751d8b3-47c0-426e-9498-6061746e146b)
 
 ![image](https://github.com/understanding963852/app-clone1/assets/60366769/ce70dd16-10cd-4599-882a-3a7c535a696d)
-![image](https://github.com/understanding963852/app-clone1/assets/60366769/cdbc8b6c-6889-44f7-8cfc-9ab101054055)
+# console창에 찍어보면 새로운 영역으로 넘어가면 1부터 다시 시작되는 것이다.  
+![image](https://github.com/understanding963852/app-clone1/assets/60366769/cea2a2ff-ba01-4edb-aaf0-8039486bcc9f)
+
+
+# 활성화된 section에서 얼마나 스크롤 되었는지를 비율로 나타내기  
+![image](https://github.com/understanding963852/app-clone1/assets/60366769/943a5304-85a6-46dd-b0e0-c28148d23514)
+
+![image](https://github.com/understanding963852/app-clone1/assets/60366769/e210506a-5ca4-4f91-9dac-734085f332ff)
+
+
+
 
 
 
