@@ -23,6 +23,9 @@
 
 ![image](https://github.com/understanding963852/app-clone1/assets/60366769/e210506a-5ca4-4f91-9dac-734085f332ff)
 
+# 비율에 해당하는 값 찾기 
+
+![image](https://github.com/understanding963852/app-clone1/assets/60366769/bf4c17d5-d87a-41a2-a136-a247bd39b54b)
 
 
 
