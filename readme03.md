@@ -5,6 +5,9 @@
 # 글자문장의 애니메이션을 별도의 함수로 만들겠다.(너무 길기 때문이기도 하다)
 ![image](https://github.com/understanding963852/app-clone1/assets/60366769/36087dbc-3d2e-4bcc-86a3-bb3d6637e96c)
 
+# 화면에 나타난 section의 영역의 애니메이션만 일어나면 된다.  현재 보이는 영역을 인식하게 만들어 주어야한다.   
+#  ⬇️ 해당영역이 잘 잡히는지 확인하기 
+![image](https://github.com/understanding963852/app-clone1/assets/60366769/b1383241-43e4-42b3-bfc2-9d817ef32ee7)
 
 
 
