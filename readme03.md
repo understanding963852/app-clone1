@@ -67,13 +67,3 @@
 ![image](https://github.com/understanding963852/app-clone1/assets/60366769/146066a3-5641-4474-9782-9b4bf5bb6ece)
 
 
-# 전체길이에서 값과의 계산은 이렇게 하려고 한다   
-![image](https://github.com/understanding963852/app-clone1/assets/60366769/fc4584cb-ee21-4e85-98fe-0ce498c1c0d7)
-![image](https://github.com/understanding963852/app-clone1/assets/60366769/1e26e6d9-878b-4584-af29-22b2c3c89e2b)
-
-# 글자가 나타나고 사라지는 범위안에서의 opacity의  변화하는 값을 찾아내기 위해서이다.  
-![image](https://github.com/understanding963852/app-clone1/assets/60366769/d7e56dbb-39f1-4878-bbe2-55f2113da9de)
-
-![image](https://github.com/understanding963852/app-clone1/assets/60366769/3b08e099-44ed-480e-991b-e32cfe179c24)
-![image](https://github.com/understanding963852/app-clone1/assets/60366769/696ca22d-d58c-4c6f-98c3-c3fa20441177)
-
