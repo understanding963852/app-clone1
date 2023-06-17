@@ -10,6 +10,9 @@
 ![image](https://github.com/understanding963852/app-clone1/assets/60366769/b1383241-43e4-42b3-bfc2-9d817ef32ee7)
 
 
+# 활성화된 section내에서 얼마나 스크롤 되었는지를 비율로 나타내기 -->  calcValues 함수에서 계산한다.  
+![image](https://github.com/understanding963852/app-clone1/assets/60366769/e751d8b3-47c0-426e-9498-6061746e146b)
+
 
 
 
