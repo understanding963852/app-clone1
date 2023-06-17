@@ -68,4 +68,5 @@
 
 # 활성화된 section안에서 영역을 나누어서 글자문장들이 나타나고 사라져야한다. 
 ![image](https://github.com/understanding963852/app-clone1/assets/60366769/5386904e-7874-4d34-b1d3-2ea8f5cc8b66)
+![image](https://github.com/understanding963852/app-clone1/assets/60366769/90e9f26d-12cc-4785-ab3e-e7431a40337d)
 
