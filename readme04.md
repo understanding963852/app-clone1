@@ -17,11 +17,30 @@
                  objs.messageA.style.opacity = calcValues(values.messageA_opacity_out, currentYOffset);
                 }
 
+# 위와 같이 사용했더니 깜빡이는 현상으로 아래와 같이 수정한다..
+
+                 if (scrollRation <= 0.1) {
+                   // in
+                    objs.messageA.style.opacity = calcValues(values.messageA_opacity_in, currentYOffset);
+                 } else if (scrollRation > 0.1 && scrollRation <= 0.22) {
+                   // stay
+                   objs.messageA.style.opacity = 1;
+                 } else if (scrollRation > 0.22 && scrollRation <= 0.3) {
+                   // out
+                   objs.messageA.style.opacity = calcValues(values.messageA_opacity_out, currentYOffset);
+                 } else {
+                   objs.messageA.style.opacity = 0;
+                 }
+////////////////////////////////////////////////////////////////////////////
+
 
 # traslateY 값 적용하기 
+![image](https://github.com/understanding963852/app-clone1/assets/60366769/f54310c5-d671-4ba5-b825-dabd2e3f5ed0)
+
+![image](https://github.com/understanding963852/app-clone1/assets/60366769/2151e01e-05b1-42a5-ba19-4e278ccaf6b0)
 
 
-
+     # chatGPT
              if (scrollRation <= 0.1) {
             // in
             objs.messageA.style.opacity = calcValues(values.messageA_opacity_in, currentYOffset);
@@ -38,21 +57,6 @@
             objs.messageA.style.opacity = 0;
             objs.messageA.style.transform = 'translateY(-20%)';
           }
-
-# 위와 같이 사용했더니 깜빡이는 현상으로 아래와 같이 수정한다..
-
-                 if (scrollRation <= 0.1) {
-                   // in
-                    objs.messageA.style.opacity = calcValues(values.messageA_opacity_in, currentYOffset);
-                 } else if (scrollRation > 0.1 && scrollRation <= 0.22) {
-                   // stay
-                   objs.messageA.style.opacity = 1;
-                 } else if (scrollRation > 0.22 && scrollRation <= 0.3) {
-                   // out
-                   objs.messageA.style.opacity = calcValues(values.messageA_opacity_out, currentYOffset);
-                 } else {
-                   objs.messageA.style.opacity = 0;
-                 }
 
  ////////////////////////////////////////////////////////////////////////// 여기까지 js7
  # 아래에서 type: "normal", 인것들은 높이의 값이 많을 필요가 없다.   
