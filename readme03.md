@@ -68,7 +68,7 @@
 
 # 활성화된 section안에서 영역을 나누어서 글자문장들이 나타나고 사라져야한다. 
 ![image](https://github.com/understanding963852/app-clone1/assets/60366769/5386904e-7874-4d34-b1d3-2ea8f5cc8b66)
-![image](https://github.com/understanding963852/app-clone1/assets/60366769/90e9f26d-12cc-4785-ab3e-e7431a40337d)
+![image](https://github.com/understanding963852/app-clone1/assets/60366769/4c190c41-eef3-4a9e-bcd9-16056beecb85)
 
 #  여기까지 활성화된 section내에서 부분적으로 영역을 나누어서 나타나는 텍스트, 첫번째 영역의 첫번째 텍스트를 만들었다
 #  js5 참조하기  🌳🌳🌳
