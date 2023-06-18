@@ -18,6 +18,27 @@
                 }
 
 
+# traslateY 값 적용하기 
+
+
+
+             if (scrollRation <= 0.1) {
+            // in
+            objs.messageA.style.opacity = calcValues(values.messageA_opacity_in, currentYOffset);
+            objs.messageA.style.transform = `translateY(${calcValues(values.messageA_translateY_in, currentYOffset)}%)`;
+          } else if (scrollRation > 0.1 && scrollRation <= 0.22) {
+            // stay
+            objs.messageA.style.opacity = 1;
+            objs.messageA.style.transform = 'translateY(0%)';
+          } else if (scrollRation > 0.22 && scrollRation <= 0.3) {
+            // out
+            objs.messageA.style.opacity = calcValues(values.messageA_opacity_out, currentYOffset);
+            objs.messageA.style.transform = `translateY(${calcValues(values.messageA_translateY_out, currentYOffset)}%)`;
+          } else {
+            objs.messageA.style.opacity = 0;
+            objs.messageA.style.transform = 'translateY(-20%)';
+          }
+
 # 위와 같이 사용했더니 깜빡이는 현상으로 아래와 같이 수정한다..
 
                  if (scrollRation <= 0.1) {
