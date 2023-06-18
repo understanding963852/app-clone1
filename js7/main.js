@@ -53,7 +53,7 @@
         if(currentYOffset>=partScrollStart && currentYOffset <= partScrollEnd){//범위안에 들어왔다면   
           rv = (currentYOffset - partScrollStart)/partScrollHeight * (values[1]  - values[0]) + values[0];
     
-        }else if(currentScene<partScrollStart){//애니메이션이 발생하는 영역에 진입하기 전  
+        }else if(currentYOffset<partScrollStart){//애니메이션이 발생하는 영역에 진입하기 전  
           rv=values[0];
         }else if(currentYOffset>partScrollEnd){//애니메이션이 발생하는 영역에서 벗어나면 
           rv=values[1];
