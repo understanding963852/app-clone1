@@ -14,29 +14,13 @@
 ![image](https://github.com/understanding963852/app-clone1/assets/60366769/2151e01e-05b1-42a5-ba19-4e278ccaf6b0)
 
 
-     # chatGPT
-             if (scrollRation <= 0.1) {
-            // in
-            objs.messageA.style.opacity = calcValues(values.messageA_opacity_in, currentYOffset);
-            objs.messageA.style.transform = `translateY(${calcValues(values.messageA_translateY_in, currentYOffset)}%)`;
-          } else if (scrollRation > 0.1 && scrollRation <= 0.22) {
-            // stay
-            objs.messageA.style.opacity = 1;
-            objs.messageA.style.transform = 'translateY(0%)';
-          } else if (scrollRation > 0.22 && scrollRation <= 0.3) {
-            // out
-            objs.messageA.style.opacity = calcValues(values.messageA_opacity_out, currentYOffset);
-            objs.messageA.style.transform = `translateY(${calcValues(values.messageA_translateY_out, currentYOffset)}%)`;
-          } else {
-            objs.messageA.style.opacity = 0;
-            objs.messageA.style.transform = 'translateY(-20%)';
-          }
-
  ////////////////////////////////////////////////////////////////////////// 여기까지 js7
  # 아래에서 type: "normal", 인것들은 높이의 값이 많을 필요가 없다.   --> id="scroll-section-1" 영역의 높이가 줄어들었다..  
 ![image](https://github.com/understanding963852/app-clone1/assets/60366769/9af49924-5d50-4bd6-83c0-531f481d6bdd)
 
 ![image](https://github.com/understanding963852/app-clone1/assets/60366769/791d30c3-e001-467f-9fbb-5d5f6d127a14)
+
+////////////  # 나머지 글자 애니메이션 까지 작성됨    js8  --> 복사하여 넣게 함 (시간 너무 많이 필요함)
 
 
 
