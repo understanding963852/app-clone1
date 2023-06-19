@@ -14,6 +14,18 @@
 # canvas에 이미지를 그리기위한 함수
 ![image](https://github.com/understanding963852/app-clone1/assets/60366769/384d2030-9bde-49b3-8bf3-845712c027c2)
 
+# 콘솔에 확인하면 배열이 300개가 들어와있는것을 확인할수 있다
+![image](https://github.com/understanding963852/app-clone1/assets/60366769/14dcc86e-fc77-46d4-8476-09e2e6dec30f)
+![image](https://github.com/understanding963852/app-clone1/assets/60366769/71228ec6-9d04-4cd6-a550-4b59cdb09ce4)
+
+# 비디오는 첫번째 section이 전체가 실행되는동안 표현이 된다  
+# 아래와 같이 .drawImage 하면 화면에 이미지가 나오기 시작한다   
+![image](https://github.com/understanding963852/app-clone1/assets/60366769/bc43859f-f405-4d0c-9830-6c87dedd7465)
+![image](https://github.com/understanding963852/app-clone1/assets/60366769/7ffe2e14-0eb3-451a-9ec2-f04286b69bfb)
+
+![image](https://github.com/understanding963852/app-clone1/assets/60366769/2ad6af45-ddbf-4dc7-81db-6c2063269312)
+
+
 
 
 
