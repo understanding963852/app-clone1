@@ -25,6 +25,12 @@
 
 ![image](https://github.com/understanding963852/app-clone1/assets/60366769/2ad6af45-ddbf-4dc7-81db-6c2063269312)
 
+ # canvas 크기 맞추기
+ #  canvas의 크기의 기준을 높이값으로 하였다    높이에 맞추고 넓이는 부모보다 커지는데.. 가운데 정렬시킨다..
+
+![image](https://github.com/understanding963852/app-clone1/assets/60366769/89ad5a93-97c3-4a46-9882-0849dd485f87)
+
+![image](https://github.com/understanding963852/app-clone1/assets/60366769/73d2d3b3-08b4-46bd-a215-5693e404bfba)
 
 
 
