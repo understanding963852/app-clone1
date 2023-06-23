@@ -27,6 +27,8 @@
 
  # canvas 크기 맞추기
  #  canvas의 크기의 기준을 높이값으로 하였다    높이에 맞추고 넓이는 부모보다 커지는데.. 가운데 정렬시킨다..
+ ![image](https://github.com/understanding963852/app-clone1/assets/60366769/30fea624-f587-4e1f-9d4d-2e87616885f0)
+
 
 ![image](https://github.com/understanding963852/app-clone1/assets/60366769/89ad5a93-97c3-4a46-9882-0849dd485f87)
 
