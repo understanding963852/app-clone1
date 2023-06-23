@@ -42,6 +42,21 @@
 ![image](https://github.com/understanding963852/app-clone1/assets/60366769/fe33763f-83c0-4d56-b72b-3677970d1391)
 
 
+# 여기까지하면 처음 나타나는 제목이 안보인다.  
+
+![image](https://github.com/understanding963852/app-clone1/assets/60366769/8c23e3b8-ff82-4a6d-80a0-73b5384d5769)
+
+# 첫 section이 끝날때 갑자기 끝나버린다.  canvas에 opacity를 적용하여 마지막에 서서히 끝나도록 만든다
+
+![image](https://github.com/understanding963852/app-clone1/assets/60366769/16277f66-fc0f-4f84-8583-4c59e32f0140)
+
+![image](https://github.com/understanding963852/app-clone1/assets/60366769/d4592e74-fa8d-4027-b218-49e79aaf5469)
+
+
+
+
+
+
 
 
 
