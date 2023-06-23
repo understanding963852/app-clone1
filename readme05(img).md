@@ -38,7 +38,8 @@
 
 ![image](https://github.com/understanding963852/app-clone1/assets/60366769/73d2d3b3-08b4-46bd-a215-5693e404bfba)
 
-
+# 지금까지는 스크롤을 움직여야 이미지가 나타나는데, 처음시작할때 사진이 나와있게 하려면..
+![image](https://github.com/understanding963852/app-clone1/assets/60366769/fe33763f-83c0-4d56-b72b-3677970d1391)
 
 
 
