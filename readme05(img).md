@@ -1,3 +1,5 @@
+# canvas에 이미지 그리기
+![image](https://github.com/understanding963852/app-clone1/assets/60366769/6a0682d3-bbdc-4bae-941e-8ff71293be7b)
 
 ![image](https://github.com/understanding963852/app-clone1/assets/60366769/f2f1dc06-1e08-4a69-8252-9779e517d598)
 
