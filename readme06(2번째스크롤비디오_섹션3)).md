@@ -7,3 +7,9 @@
 # 여기서는 opacity가 시작될때와 끝날때에 두번 이루어진다. 그건 조금있다가 한다.
 
 
+![image](https://github.com/understanding963852/app-clone1/assets/60366769/85285166-c462-4c03-b410-87701c8d3461)
+
+![image](https://github.com/understanding963852/app-clone1/assets/60366769/9586f76e-79aa-4dba-86f3-40599b54b549)
+
+
+
