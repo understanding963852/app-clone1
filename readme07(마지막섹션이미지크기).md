@@ -18,3 +18,4 @@
 
 # 아래와 같은 변화가 생긴
 ![image](https://github.com/understanding963852/app-clone1/assets/60366769/579b2979-761f-4195-9b2c-3c4a35fd2977)
+![image](https://github.com/understanding963852/app-clone1/assets/60366769/a60d6df5-054c-4544-b474-1800c69e5198)
