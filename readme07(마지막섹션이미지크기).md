@@ -9,3 +9,7 @@
 # sceneInfo에서 셋팅하기  
 
 ![image](https://github.com/understanding963852/app-clone1/assets/60366769/5c6d73f5-01dc-488d-a635-ed6f6281acd0)
+
+# 여기서 작업한다.   
+![image](https://github.com/understanding963852/app-clone1/assets/60366769/daee6901-8c73-48e5-82a3-ac5425c958c4)
+
