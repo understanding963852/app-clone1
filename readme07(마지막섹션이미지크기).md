@@ -13,3 +13,8 @@
 # 여기서 작업한다.   
 ![image](https://github.com/understanding963852/app-clone1/assets/60366769/daee6901-8c73-48e5-82a3-ac5425c958c4)
 
+
+![image](https://github.com/understanding963852/app-clone1/assets/60366769/f2b68bb2-4e41-47be-8dec-57b8085fede8)
+
+# 아래와 같은 변화가 생긴
+![image](https://github.com/understanding963852/app-clone1/assets/60366769/579b2979-761f-4195-9b2c-3c4a35fd2977)
