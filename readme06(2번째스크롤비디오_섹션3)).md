@@ -15,6 +15,19 @@
 
 ![image](https://github.com/understanding963852/app-clone1/assets/60366769/63b204af-f892-4b57-aeba-634f43c146a3)
 
+# css 수정하기  
+![image](https://github.com/understanding963852/app-clone1/assets/60366769/f70d17c8-919b-4399-ac25-b645c0d49ca2)
+
+
+# 3번째 section 의 이미지는 나올때와 끝날때 opacity가 둘다 적용되어야한다   
+
+![image](https://github.com/understanding963852/app-clone1/assets/60366769/1788c0c1-cf3b-453d-af49-eb0903d96181)
+
+![image](https://github.com/understanding963852/app-clone1/assets/60366769/2486df2c-a09a-4bdb-a873-4f91a824a721)
+
+
+
+
 
 
 
