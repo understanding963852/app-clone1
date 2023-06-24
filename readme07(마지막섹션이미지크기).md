@@ -1,2 +1,11 @@
+# 디바이스에 사이즈에 맞추어서 조절이 되는 방식이기때문에 미리 셋팅하기 어럽다.
+# 
+![image](https://github.com/understanding963852/app-clone1/assets/60366769/bebbe6e6-ab3e-4001-9446-5cf4edcd5b98)
 
-readme07(마지막섹션이미지크기)
+
+![image](https://github.com/understanding963852/app-clone1/assets/60366769/2e160a9a-0f69-4c99-9755-3e872cc692cb)
+
+
+# sceneInfo에서 셋팅하기  
+
+![image](https://github.com/understanding963852/app-clone1/assets/60366769/5c6d73f5-01dc-488d-a635-ed6f6281acd0)
