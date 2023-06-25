@@ -16,6 +16,12 @@
 
 ![image](https://github.com/understanding963852/app-clone1/assets/60366769/f2b68bb2-4e41-47be-8dec-57b8085fede8)
 
+
+![image](https://github.com/understanding963852/app-clone1/assets/60366769/0ac2ae99-a7d3-4805-b3d6-d1bcfabe1f04)
+
 # 아래와 같은 변화가 생긴
 ![image](https://github.com/understanding963852/app-clone1/assets/60366769/579b2979-761f-4195-9b2c-3c4a35fd2977)
+# alignitems:center를 하면 다시 높이값을 기준으로 맞추어진다...
 ![image](https://github.com/understanding963852/app-clone1/assets/60366769/a60d6df5-054c-4544-b474-1800c69e5198)
+
+# 여기까지 적용하면 canvas의 높이를 기준으로 넓이는 가운데 정렬되는것 까지 만들어진다.
