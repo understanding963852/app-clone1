@@ -5,6 +5,9 @@
 
 ![image](https://github.com/understanding963852/app-clone1/assets/60366769/b27dc037-3341-4628-bfda-38d503e03bfb)
 
+# js1폴더의 sceneInfo를 먼저 설정한다.
+![image](https://github.com/understanding963852/app-clone1/assets/60366769/65d49eca-c82f-4a0a-b393-ca811474d83f)
+
 
 # 각영역의 높이값이 설정된다 ---   js1 폴더 참조  🌳🌳🌳
 //////////////////////////////////////////////////////////////////////////
