@@ -65,6 +65,8 @@
 # 한영역의 전체 스크롤이 1이라고 계산한다
 # messageA_opacity_in 가 나올시점이 start에 사라지는 시점은 end에 적는 것이다. 나머지 text들도 그런식으로 적어준다  
 ![image](https://github.com/understanding963852/app-clone1/assets/60366769/0daa7227-e4af-4887-aa6b-c919773364e0)
+![image](https://github.com/understanding963852/app-clone1/assets/60366769/9e47bafa-73b6-4032-b4f0-4b587a4eab67)
+
 
 # 아래의 calcValues함수가 한 섹션에서의 전체 스크롤값을 계산하는 곳이다.  
 ![image](https://github.com/understanding963852/app-clone1/assets/60366769/146066a3-5641-4474-9782-9b4bf5bb6ece)
