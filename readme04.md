@@ -16,7 +16,7 @@
 ![image](https://github.com/understanding963852/app-clone1/assets/60366769/2151e01e-05b1-42a5-ba19-4e278ccaf6b0)
 
 
- ////////////////////////////////////////////////////////////////////////// 여기까지 js7
+ ////////////////////////////////////////////////////////////////////////// 여기까지 js8
  # 아래에서 type: "normal", 인것들은 높이의 값이 많을 필요가 없다.   --> id="scroll-section-1" 영역의 높이가 줄어들었다..  
 ![image](https://github.com/understanding963852/app-clone1/assets/60366769/9af49924-5d50-4bd6-83c0-531f481d6bdd)
 
