@@ -24,6 +24,7 @@
 
 # 비디오는 첫번째 section이 전체가 실행되는동안 표현이 된다  
 # 아래와 같이 .drawImage 하면 화면에 이미지가 나오기 시작한다   
+#  Math.round()는 반올림  5부터 반올림됨   
 ![image](https://github.com/understanding963852/app-clone1/assets/60366769/bc43859f-f405-4d0c-9830-6c87dedd7465)
 ![image](https://github.com/understanding963852/app-clone1/assets/60366769/7ffe2e14-0eb3-451a-9ec2-f04286b69bfb)
 
